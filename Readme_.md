@@ -20,7 +20,9 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 
 <img width="409" alt="Capture" src="https://github.com/aliabbas30/Age_Gender_Prediction/assets/102746791/540c384f-e2c1-42c4-92d2-5fbf5cfb9907">
 
-- To download the required libraries use requirement.txt
+
+
+### To download the required libraries use requirement.txt
 ```bash
 pip install -r requirement.txt
 ```
